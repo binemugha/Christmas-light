@@ -34,6 +34,7 @@ body {
   letter-spacing: 5px;
   font-size: 0.8rem;
   text-shadow: 0 0 30px white;
+  justify-content: center;
 }
 .circle {
   display: flex;
